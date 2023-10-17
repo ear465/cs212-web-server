@@ -1,0 +1,36 @@
+body {
+    background-color: #b4a8b8;
+    color: #0d2303; 
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #2a3651;
+    font-family: 'Archivo Black', sans-serif;
+    font-variant: small-caps;
+    line-height: 0.8;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+p, ul, ol {
+    font-family: 'EB Garamond', serif;
+    line-height: 1.8;
+    font-size: 18px;
+}
+
+#authors {
+    color: #21030b;
+    font-size: 20px;
+    line-height: 0.5;
+}
